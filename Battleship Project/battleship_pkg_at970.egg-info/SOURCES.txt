@@ -1,0 +1,7 @@
+LICENSE.txt
+README.md
+setup.py
+battleship_pkg_at970.egg-info/PKG-INFO
+battleship_pkg_at970.egg-info/SOURCES.txt
+battleship_pkg_at970.egg-info/dependency_links.txt
+battleship_pkg_at970.egg-info/top_level.txt
